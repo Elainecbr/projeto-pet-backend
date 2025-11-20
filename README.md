@@ -2,6 +2,8 @@
 
 Este diretório contém a API em Flask usada pelo Projeto Pet.
 
+
+
 Requisitos
 
 - Python 3.8+
@@ -29,7 +31,9 @@ Documentação
 - OpenAPI/Swagger: `backend/swagger.yaml` (o Swagger UI pode ser servido pelo backend em `/swagger` se habilitado).
 
 Notas
-- O banco é um arquivo SQLite em `backend/instance/site.db` (não rastreado no Git). Já fizemos backup deste arquivo antes de limpar o histórico.
+- O banco é um arquivo SQLite em `backend/instance/site.db` (não rastreado no Git).
+
+  
 # Pet Web — Backend (API)
 
 Backend em Python usando Flask e Flask-SQLAlchemy. Fornece endpoints para gerenciar usuários, raças e cachorros.
@@ -77,7 +81,6 @@ Documentação OpenAPI/Swagger
 - O arquivo `backend/swagger.yaml` contém a especificação completa das rotas.
 
 Notas para o vídeo
-- Explique o fluxo: `seed_db.py` cria/insere raças; `app.py` é a fábrica de app com as rotas e serve o frontend; `database.py` contém os modelos e relações (User 1->N Cachorro). Mostre exemplos de payload no Swagger "Try it out".
+- Explicar o fluxo: `seed_db.py` cria/insere raças; `app.py` é a fábrica de app com as rotas e serve o frontend; `database.py` contém os modelos e relações (User 1->N Cachorro). Mostre exemplos de payload no Swagger "Try it out".
 
-Separando repositórios
-- Para enviar aos professores, crie dois repositórios no GitHub: um para `backend/` e outro para `frontend/`. Inclua nestes repositorios os READMEs correspondentes.
+Frontend e backend estao em repositórios separando 
