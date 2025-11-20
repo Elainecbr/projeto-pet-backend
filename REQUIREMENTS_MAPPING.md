@@ -52,4 +52,3 @@ Evidências de arquivo/linha (principais locais):
 - `backend/swagger.yaml` — especificação OpenAPI usada na UI.
 - `frontend/script.js` — fluxos de verificação/cadastro e tratamento de duplicidade.
 
-Próximo passo (A concluído): adicionar exemplos de request/response ao `backend/swagger.yaml` para facilitar a demonstração (opção B).
