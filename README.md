@@ -1,3 +1,30 @@
+# Pet Web - Full Stack SPA Project
+
+Este é um projeto Full Stack desenvolvido como uma Single Page Application (SPA) para o "Pet Web", conforme o wireframe gráfico. O objetivo é demonstrar a integração de um backend em Python (Flask) com um frontend interativo (HTML, CSS, JavaScript), utilizando Pydantic para validação de dados e Flask-OpenAPI3 para documentação de API (Swagger UI).
+Tecnologias Utilizadas
+
+## Backend:
+
+    Python 3
+    Flask: Microframework web
+    Flask-OpenAPI3: Integração OpenAPI/Swagger UI com Flask e Pydantic
+    Pydantic: Validação de dados (modelos para requests/responses)
+    SQLite3: Banco de dados relacional leve
+
+## Frontend:
+
+    HTML5: Estrutura da página
+    CSS3: Estilização responsiva
+    JavaScript (ES6+): Interatividade SPA, manipulação do DOM, requisições Fetch API para o backend
+
+Pré-requisitos
+Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) instalados em seu sistema. O SQLite3 geralmente vem pré-instalado com o Python e no macOS.
+
+
+
+
+
+
 # Backend — Projeto Pet
 ## Estrutura recomendada para instalação- como fica apos a instalação :
 <img width="1638" height="209" alt="grafik" src="https://github.com/user-attachments/assets/af59ee4f-4feb-4ef8-bad4-2762818f0149" />
