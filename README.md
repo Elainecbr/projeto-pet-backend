@@ -56,7 +56,9 @@ Documentação
 - OpenAPI/Swagger: `backend/swagger.yaml` (o Swagger UI pode ser servido pelo backend em `/swagger` se habilitado).
 
 Notas
-- O banco é um arquivo SQLite em `backend/instance/site.db` (não rastreado no Git).
+- O banco é um arquivo SQLite em `backend/instance/site.db
+<img width="916" height="744" alt="grafik" src="https://github.com/user-attachments/assets/8a186726-e2ee-459b-845a-6a458b49e1ec" />
+
 
   
 # Pet Web — Backend (API)
