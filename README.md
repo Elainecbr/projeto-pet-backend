@@ -1,6 +1,7 @@
 # Backend — Projeto Pet
 ## Estrutura recomendada para instalação- como fica apos a instalação :
-<img width="1644" height="208" alt="grafik" src="https://github.com/user-attachments/assets/fffd335a-93df-4b3d-aa2b-a8b3ce458168" />
+<img width="1638" height="209" alt="grafik" src="https://github.com/user-attachments/assets/af59ee4f-4feb-4ef8-bad4-2762818f0149" />
+
 
 ## Este diretório contém a API em Flask usada pelo Projeto Pet.
 
