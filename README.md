@@ -10,6 +10,8 @@ Tecnologias Utilizadas
     Flask-OpenAPI3: Integração OpenAPI/Swagger UI com Flask e Pydantic
     Pydantic: Validação de dados (modelos para requests/responses)
     SQLite3: Banco de dados relacional leve
+    <img width="916" height="744" alt="grafik" src="https://github.com/user-attachments/assets/a72ea245-c030-483a-951f-49704ba59ac5" />
+
 
 ## Frontend:
 
@@ -20,11 +22,6 @@ Tecnologias Utilizadas
 Pré-requisitos
 Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) instalados em seu sistema. O SQLite3 geralmente vem pré-instalado com o Python e no macOS.
 
-
-
-
-
-
 # Backend — Projeto Pet
 ## Estrutura recomendada para instalação- como fica apos a instalação :
 <img width="1638" height="209" alt="grafik" src="https://github.com/user-attachments/assets/af59ee4f-4feb-4ef8-bad4-2762818f0149" />
@@ -33,7 +30,7 @@ Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) insta
 ## Este diretório contém a API em Flask usada pelo Projeto Pet.
 
 ### Requisitos
-
+- Crie um ambiente virtual (recomendado)
 - Python 3.8+
 - Instale dependências:
 
@@ -48,7 +45,7 @@ Rodando localmente
 
 ```bash
 cd backend
-# inicializa o banco (se necessário)
+# inicializa o banco (se necessário- se ainda não existe)
 python seed_db.py
 # rodar app
 python app.py
@@ -109,6 +106,6 @@ Documentação OpenAPI/Swagger
 - O arquivo `backend/swagger.yaml` contém a especificação completa das rotas.
 
 Notas para o vídeo
-- Explicar o fluxo: `seed_db.py` cria/insere raças; `app.py` é a fábrica de app com as rotas e serve o frontend; `database.py` contém os modelos e relações (User 1->N Cachorro). Mostre exemplos de payload no Swagger "Try it out".
+- Explica o fluxo: `seed_db.py` cria/insere raças; `app.py` é a fábrica de app com as rotas e serve o frontend; `database.py` contém os modelos e relações (User 1->N Cachorro). Mostre exemplos de payload no Swagger "Try it out".
 
 Frontend e backend estao em repositórios separando 
