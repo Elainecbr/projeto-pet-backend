@@ -10,7 +10,6 @@ Tecnologias Utilizadas
     Flask-OpenAPI3: Integração OpenAPI/Swagger UI com Flask e Pydantic
     Pydantic: Validação de dados (modelos para requests/responses)
     SQLite3: Banco de dados relacional leve
-    <img width="916" height="744" alt="grafik" src="https://github.com/user-attachments/assets/a72ea245-c030-483a-951f-49704ba59ac5"/>
     
 
 
