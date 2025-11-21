@@ -111,3 +111,5 @@ Notas para o vídeo
 - Explica o fluxo: `seed_db.py` cria/insere raças; `app.py` é a fábrica de app com as rotas e serve o frontend; `database.py` contém os modelos e relações (User 1->N Cachorro). Mostre exemplos de payload no Swagger "Try it out".
 
 Frontend e backend estao em repositórios separando 
+Frontend--> https://github.com/Elainecbr/projeto-pet-frontend 
+Backend---> https://github.com/Elainecbr/projeto-pet-backend 
