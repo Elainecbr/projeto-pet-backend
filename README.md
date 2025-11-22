@@ -1,7 +1,14 @@
-# Pet Web - Full Stack SPA Project
+# Pet Web - Full Stack SPA 
 
-Este é um projeto Full Stack desenvolvido como uma Single Page Application (SPA) para o "Pet Web", conforme o wireframe gráfico. O objetivo é demonstrar a integração de um backend em Python (Flask) com um frontend interativo (HTML, CSS, JavaScript), utilizando Pydantic para validação de dados e Flask-OpenAPI3 para documentação de API (Swagger UI).
-Tecnologias Utilizadas
+# 🐶 Doggo Care System 🐾
+
+Bem-vindo ao Doggo Care! Este sistema permite que você cadastre suas informações e as do seu cãozinho, recebendo dicas e cuidados personalizados baseados na raça, você pode visualizar as fotos respectivas da raça. As informações após o cadastro ou login serão amostradas nos card. Além do cadastro e visualização, é possível também modificar ou deletar as informações.
+
+# Projeto
+
+Este é um projeto Full Stack desenvolvido básico, como uma Single Page Application (SPA) para o "Pet Web", conforme o wireframe gráfico. O objetivo é demonstrar a integração de um backend em Python (Flask) com um frontend interativo (HTML, CSS, JavaScript), utilizando Pydantic para validação de dados e Flask-OpenAPI3 para documentação de API (Swagger UI). Seguindo os requisitos /Mapeamento de Requisitos -> Implementacao-PUC -REsumido no arquivo/Mapeamento de Requisitos -> Implementacao-PUC.md
+
+## Tecnologias Utilizadas
 
 ## Backend:
 
@@ -11,8 +18,6 @@ Tecnologias Utilizadas
     Pydantic: Validação de dados (modelos para requests/responses)
     SQLite3: Banco de dados relacional leve
     
-
-
 ## Frontend:
 
     HTML5: Estrutura da página
