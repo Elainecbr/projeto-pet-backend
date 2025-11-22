@@ -28,6 +28,15 @@ Pré-requisitos
 Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) instalados em seu sistema. O SQLite3 geralmente vem pré-instalado com o Python e no macOS.
 
 # Backend — Projeto Pet
+importante - para o projeto completo - usar o front  e o backend,  os diretorios devem salvos no mesmo diretorio (raiz), por exe: 
+
+**projeto_pet_web/**
+|__**backend**
+|__**frontend**
+
+<img width="498" height="63" alt="grafik" src="https://github.com/user-attachments/assets/47227417-214d-48df-98bf-3fec0f6204cd" />
+
+
 ## Estrutura recomendada para instalação- como fica apos a instalação :
 <img width="1638" height="209" alt="grafik" src="https://github.com/user-attachments/assets/af59ee4f-4feb-4ef8-bad4-2762818f0149" />
 
