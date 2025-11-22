@@ -43,7 +43,7 @@ Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) insta
 
 ## Este diretório contém a API em Flask usada pelo Projeto Pet.
 
-### Requisitos
+### Requisitos - siga os passo 
 - Crie um ambiente virtual (recomendado)
 - Python 3.8+
 - Instale dependências:
