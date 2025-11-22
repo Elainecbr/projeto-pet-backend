@@ -24,11 +24,10 @@ Este é um projeto Full Stack desenvolvido básico, como uma Single Page Applica
     CSS3: Estilização responsiva
     JavaScript (ES6+): Interatividade SPA, manipulação do DOM, requisições Fetch API para o backend
 
-Pré-requisitos
+## Pré-requisitos
 Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) instalados em seu sistema. O SQLite3 geralmente vem pré-instalado com o Python e no macOS.
 
-# Backend — Projeto Pet
-importante - para o projeto completo - usar o front  e o backend,  os diretorios devem salvos no mesmo diretorio (raiz), por exe: 
+## importante - para o projeto completo - usar o front  e o backend,  os diretorios devem salvos no mesmo diretorio (raiz), por exe: 
 
 **projeto_pet_web/**  
 |......**backend**  
@@ -40,6 +39,7 @@ importante - para o projeto completo - usar o front  e o backend,  os diretorios
 ## Estrutura recomendada para instalação- como fica apos a instalação :
 <img width="1638" height="209" alt="grafik" src="https://github.com/user-attachments/assets/af59ee4f-4feb-4ef8-bad4-2762818f0149" />
 
+# Backend — Projeto Pet
 
 ## Este diretório contém a API em Flask usada pelo Projeto Pet.
 
