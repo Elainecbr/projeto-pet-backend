@@ -31,8 +31,8 @@ Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) insta
 importante - para o projeto completo - usar o front  e o backend,  os diretorios devem salvos no mesmo diretorio (raiz), por exe: 
 
 **projeto_pet_web/**  
-|__**backend**  
-|__**frontend**  
+|......**backend**  
+|......**frontend**  
 
 <img width="498" height="63" alt="grafik" src="https://github.com/user-attachments/assets/47227417-214d-48df-98bf-3fec0f6204cd" />
 
