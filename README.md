@@ -27,17 +27,10 @@ Este é um projeto Full Stack desenvolvido básico, como uma Single Page Applica
 ## Pré-requisitos
 Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) instalados em seu sistema. O SQLite3 geralmente vem pré-instalado com o Python e no macOS.
 
-## importante - para o projeto completo - o frontend  e o backend, os diretorios devem estar salvos no mesmo diretorio (raiz), por exe: 
-
-**projeto_pet_web/**  
-|......**backend**  
-|......**frontend**  
-
-<img width="498" height="63" alt="grafik" src="https://github.com/user-attachments/assets/47227417-214d-48df-98bf-3fec0f6204cd" />
-
-
-## Estrutura recomendada para instalação- como fica apos a instalação :
-<img width="1638" height="209" alt="grafik" src="https://github.com/user-attachments/assets/af59ee4f-4feb-4ef8-bad4-2762818f0149" />
+ ## Baixe o arquivo projeto-pet-backend-main.zip
+ e desempacote.
+ ao final da instalação seu diretorio será assim
+ <img width="1398" height="429" alt="grafik" src="https://github.com/user-attachments/assets/893db413-4f09-4e1f-8609-28ea3b1ebdad" />
 
 # Backend — Projeto Pet
 
@@ -55,7 +48,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Rodando localmente
+# Rodando localmente
 
 ```bash
 cd backend
@@ -66,13 +59,12 @@ python app.py
 # A API ficará disponível em http://127.0.0.1:5000
 ```
 
-Documentação
+# Documentação
 - OpenAPI/Swagger: `backend/swagger.yaml` (o Swagger UI pode ser servido pelo backend em `/swagger` se habilitado).
 
 Notas
 - O banco é um arquivo SQLite em `backend/instance/site.db'
 <img width="916" height="744" alt="grafik" src="https://github.com/user-attachments/assets/8a186726-e2ee-459b-845a-6a458b49e1ec" />
-
 
   
 # Pet Web — Backend (API)
