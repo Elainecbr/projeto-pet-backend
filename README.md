@@ -27,7 +27,7 @@ Este é um projeto Full Stack desenvolvido básico, como uma Single Page Applica
 ## Pré-requisitos
 Certifique-se de ter o Python 3 e o pip (gerenciador de pacotes do Python) instalados em seu sistema. O SQLite3 geralmente vem pré-instalado com o Python e no macOS.
 
-## importante - para o projeto completo - usar o front  e o backend,  os diretorios devem salvos no mesmo diretorio (raiz), por exe: 
+## importante - para o projeto completo - o frontend  e o backend, os diretorios devem estar salvos no mesmo diretorio (raiz), por exe: 
 
 **projeto_pet_web/**  
 |......**backend**  
