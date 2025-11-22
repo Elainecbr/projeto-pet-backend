@@ -1,8 +1,8 @@
 # Pet Web - Full Stack SPA 
 
-# 🐶 Doggo Care System 🐾
+# 🐶 Pet Web - O nosso Dogginho Care System 🐾
 
-Bem-vindo ao Doggo Care! Este sistema permite que você cadastre suas informações e as do seu cãozinho, recebendo dicas e cuidados personalizados baseados na raça, você pode visualizar as fotos respectivas da raça. As informações após o cadastro ou login serão amostradas nos card. Além do cadastro e visualização, é possível também modificar ou deletar as informações.
+Bem-vindo ao Pet Web! Este sistema permite que você cadastre suas informações e as do seu cãozinho, recebendo dicas e cuidados personalizados baseados na raça, você pode visualizar as fotos respectivas da raça. As informações após o cadastro ou login serão amostradas nos card. Além do cadastro e visualização, é possível também modificar ou deletar as informações. Futuramente, pode escolher as Rações, produtos de cuidados para o seu cão, veterinários na sua região, forum para encontrar outros tutores que queiram socializar e muito mais. 
 
 # Projeto
 
